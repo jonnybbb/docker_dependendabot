@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11:alpine-slim@sha256:54f589faa42018a5e07997cb8d4bbf59ec2c6c5b6fc6a88241fc558f717bac6c as stage1
+FROM adoptopenjdk/openjdk11:alpine-slim@sha256:6cb09ce0cc198ab891a61ea9a02dfd6aefe2a640fcea6dec834ba0e9f2cae085 as stage1
 
 MAINTAINER  Johannes Bühler <jonnybbb@gmail.com>
 
